@@ -13,3 +13,4 @@ For this project, we used a simplified version of the database which only contai
 * Pre-processing the dataset
 * Implementation of a k Nearest Neighbours (k-NN) classifier without using in-built library
 * Implementation of dimensionality reduction technique PCA in conjunction with the k-NN
+
