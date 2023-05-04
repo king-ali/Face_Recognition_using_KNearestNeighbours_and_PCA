@@ -10,7 +10,6 @@ The CMU Pose, Illumination, and Expression (PIE) database (http://ieeexplore.iee
 
 For this project, we used a simplified version of the database which only contains 10 subjects spanningfive near-frontal poses, and there are 170 images for each individual. In addition, all the images have been resized to 32x32 pixels. Each row is an instance and each column a feature. The first 170 instances belong to the first subject, the next 170 to the second subject and so on.
 
-
 * Pre-processing the dataset
 * Implementation of a k Nearest Neighbours (k-NN) classifier without using in-built library
 * Implementation of dimensionality reduction technique PCA in conjunction with the k-NN
