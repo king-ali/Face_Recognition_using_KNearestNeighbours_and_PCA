@@ -1,6 +1,5 @@
 # Face Recognition using K Nearest Neighbours and PCA
 
-This is the assignmnt 2 of computer vision course taught by Dr. Shahzor Ahmad
 
 The CMU Pose, Illumination, and Expression (PIE) database (http://ieeexplore.ieee.org/abstract/document/1004130/) consists of 41,368 images of 68 subjects. Each person is under 13 different poses, 43 different illumination conditions, and with 4 different expressions. Following illustrate various instances of the first subject.
 
